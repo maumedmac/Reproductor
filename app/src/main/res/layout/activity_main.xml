@@ -26,5 +26,6 @@
             android:layout_weight="1"
             android:text="STOP"
             android:textAppearance="@style/TextAppearance.AppCompat.Display4" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
